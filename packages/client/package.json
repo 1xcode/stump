@@ -10,7 +10,7 @@
 		"@stump/api": "*",
 		"@stump/types": "*",
 		"@tanstack/react-query": "^4.36.1",
-		"axios": "^1.6.8",
+		"axios": "^1.7.4",
 		"deep-equal": "^2.2.3",
 		"immer": "^10.0.4",
 		"react-use-websocket": "^4.8.1",
