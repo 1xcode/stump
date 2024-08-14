@@ -14,7 +14,7 @@
 	},
 	"dependencies": {
 		"@stump/types": "*",
-		"axios": "^1.6.8",
+		"axios": "^1.7.4",
 		"qs": "^6.12.1"
 	}
 }
